@@ -8,8 +8,8 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-logo = "images/fam.jpg"
-description = "A programming-polyglot"
+#logo = "img/fam.jpg"
+description = "A foolish computer polyglot"
 # logo = "img/logo.png"
 # secondaryLogo = "img/secondary-logo.png"
 # description = "My awesome website"
@@ -17,7 +17,7 @@ description = "A programming-polyglot"
 
 [author]
 name = "Charles Corbett"
-image = "images/me.png"
+image = "img/me.png"
 headline = "A foolish computer polyglot."
 bio = "Effective remote worker. Engineering manager. Serial hobbiest."
 links = [
